@@ -40,6 +40,8 @@
 //#include <vtkSmoothPolyDataFilter.h>
 //#include <vtkPolyDataNormals.h>
 
+using namespace std;
+
 class bezier_curve {
   int npnts;
 
